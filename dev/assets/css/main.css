@@ -523,8 +523,8 @@ ul li {
   margin-top: 15px;
 }
 .faq .panel-default > .panel-heading {
-  color: #FFF;
-  background-color: #000000;
+  color: #000;
+  background-color: #fff;
   border-color: #000;
   border-radius: 0;
   padding: 0;
