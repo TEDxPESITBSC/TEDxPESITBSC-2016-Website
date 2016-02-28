@@ -110,6 +110,10 @@ ul li {
           transform: scale(0.9);
 }
 
+.header-buy-btn {
+  margin-top: 10px;
+}
+
 .form-control {
   border-radius: 0;
   box-shadow: none;
